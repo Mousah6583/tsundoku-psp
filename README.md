@@ -48,7 +48,7 @@ The name comes from the Japanese concept "Tsundoku" (the act of acquiring readin
 ## Building from Source
 If you are a developer and want to build it yourself:
 1. Ensure you have [PSPSDK](https://pspdev.github.io/) installed.
-2. Clone the repo: `git clone https://github.com/SEU_USUARIO/tsundoku-psp.git`
+2. Clone the repo: `git clone https://github.com/user/tsundoku-psp.git`
 3. Run `make clean && make`.
 
 ## How to Set Up Your Collection
